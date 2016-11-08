@@ -13,6 +13,7 @@
 		ACA58B041DD14CB600ADCE64 /* apiTester.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = ACA58B021DD14CB600ADCE64 /* apiTester.xcdatamodeld */; };
 		ACA58B061DD14CB600ADCE64 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACA58B051DD14CB600ADCE64 /* Assets.xcassets */; };
 		ACA58B091DD14CB600ADCE64 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACA58B071DD14CB600ADCE64 /* LaunchScreen.storyboard */; };
+		ACA58B111DD1567600ADCE64 /* Request.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACA58B101DD1567600ADCE64 /* Request.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		ACA58B051DD14CB600ADCE64 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACA58B081DD14CB600ADCE64 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACA58B0A1DD14CB600ADCE64 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACA58B101DD1567600ADCE64 /* Request.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Request.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				ACA58B071DD14CB600ADCE64 /* LaunchScreen.storyboard */,
 				ACA58B0A1DD14CB600ADCE64 /* Info.plist */,
 				ACA58B021DD14CB600ADCE64 /* apiTester.xcdatamodeld */,
+				ACA58B101DD1567600ADCE64 /* Request.swift */,
 			);
 			path = apiTester;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACA58AFE1DD14CB600ADCE64 /* ViewController.swift in Sources */,
+				ACA58B111DD1567600ADCE64 /* Request.swift in Sources */,
 				ACA58AFC1DD14CB600ADCE64 /* AppDelegate.swift in Sources */,
 				ACA58B041DD14CB600ADCE64 /* apiTester.xcdatamodeld in Sources */,
 			);

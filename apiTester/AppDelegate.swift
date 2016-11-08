@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  apiTester
 //
-//  Created by ihaku on 11/7/16.
+//  Created by Gabriel on 11/7/16.
 //  Copyright © 2016 sirlopu. All rights reserved.
 //
 
